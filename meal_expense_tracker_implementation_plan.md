@@ -449,4 +449,6 @@ Note: Configured .gitignore and vercel.json for Git repository pushing and SPA r
 36. `src/pages/CalendarPage.tsx`
 37. `src/pages/SchedulePage.tsx`
 38. `src/pages/HistoryPage.tsx`
+39. `src/context/AuthContext.tsx`
+40. `src/pages/LoginPage.tsx`
 
